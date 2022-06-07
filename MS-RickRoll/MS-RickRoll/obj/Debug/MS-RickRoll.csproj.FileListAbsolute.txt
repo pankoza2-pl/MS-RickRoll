@@ -1,0 +1,14 @@
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\bin\Debug\MS-RickRoll.exe
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\bin\Debug\MS-RickRoll.pdb
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\obj\Debug\MS_RickRoll.Form1.resources
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\obj\Debug\MS_RickRoll.Properties.Resources.resources
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\obj\Debug\MS-RickRoll.csproj.GenerateResource.cache
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\obj\Debug\MS-RickRoll.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\obj\Debug\MS-RickRoll.exe
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\obj\Debug\MS-RickRoll.pdb
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\bin\Debug\Resources\rick.wav
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\obj\Debug\MS-RickRoll.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\obj\Debug\MS_RickRoll.Form2.resources
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\bin\Debug\Resources\MS-Windows11.jpg
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\bin\Debug\Resources\rick-astley-lol.gif
+C:\Users\thanh\source\repos\MS-RickRoll\MS-RickRoll\bin\Debug\Resources\mbr.exe
